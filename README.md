@@ -13,6 +13,6 @@ Programming: Python, Java, C++, C#, C
 <br />
 Databases: PostgreSQL, SQLite, MySQL, CSV, JSON
 <br />
-Tools: Unity, Android Studio, Intellij, Eclipse,  Git, Visual Studio, SFML
+Tools: Unity, Android Studio, Intellij, Eclipse,  Git, Visual Studio, SFML, Blender, Clip Studio Paint EX, Aseprite
 <br />
 Operating Systems: Windows, Linux, Android
