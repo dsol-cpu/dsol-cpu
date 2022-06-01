@@ -2,7 +2,7 @@
 
 ## 
 
-- I’m a new graduate with some internship experience currently looking for a job in Game Development or Software Engineering 
+- I’m a new graduate Software Engineer/Artist with some internship experience currently looking for a job in Game Development or Software Engineering 
 - Fun fact: I also illustrate and develop games!
 <br />
 
