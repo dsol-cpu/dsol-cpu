@@ -2,7 +2,7 @@
 
 ## 
 
-- I’m a current Junior Software Engineer and Artist currently looking for a job in Game Development or Software Engineering 
+- I’m a current Junior Software Engineer and Artist currently looking for a job in Game Development or Software Development
 - Fun fact: I also illustrate and develop games!
 <br />
 
