@@ -8,7 +8,9 @@
 
 ### Languages and Tools:
 
-Programming: Python, Java, C++, C#, C, ReactJS
+Proficient Languages: Python, Java, C++, C#, 
+<br />
+Familiar Languages: C, ReactJS
 <br />
 Databases and Configuration: PostgreSQL, SQLite, MySQL, CSV, JSON, XML
 <br />
