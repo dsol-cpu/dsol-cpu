@@ -8,9 +8,9 @@
 
 ### Languages and Tools:
 
-Programming: Python, Java, C++, C#, C
+Programming: Python, Java, C++, C#, C, ReactJS
 <br />
-Databases: PostgreSQL, SQLite, MySQL, CSV, JSON
+Databases and Configuration: PostgreSQL, SQLite, MySQL, CSV, JSON, XML
 <br />
 Tools: Unity, Android Studio, Intellij, Eclipse,  Git/Github/Gitlab, Confluence/Bitbucket, Visual Studio, SFML
 <br />
