@@ -2,7 +2,8 @@
 
 ## 
 
-- I’m a current Junior Software Engineer and Artist currently looking for a job in Game Development or Software Engineering/Development
+- I’m currently about to move companies from Jr. SWE to regular SWE and Artist 
+- Currently looking for a job in Game Development or Software Engineering/Development
 - Fun fact: I also illustrate and develop games!
 <br />
 
