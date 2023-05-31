@@ -2,7 +2,7 @@
 
 ## 
 
-- I’m currently about to move companies from Jr. SWE to regular SWE and Artist 
+- I’m currently a Software Engineer, Game Developer, and 2D and 3D Artist on the side
 - Currently looking for a job in Game Development or Software Engineering/Development
 - Fun fact: I also illustrate and develop games!
 <br />
