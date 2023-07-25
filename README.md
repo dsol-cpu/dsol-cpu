@@ -2,7 +2,7 @@
 
 ## 
 
-- I’m currently a Software Engineer, Game Developer, and 2D and 3D Artist on the side
+- I’m currently a Software Engineer, Game Developer, and 2D and 3D Artist on the side (hopefully not for much longer)
 - Currently looking for a job in Game Development or Software Engineering/Development
 - Fun fact: I also illustrate and develop games!
 <br />
