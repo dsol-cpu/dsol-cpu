@@ -11,7 +11,7 @@
 
 Proficient Languages: Python, Java, C, C++, C#, 
 <br />
-Familiar Languages: C, ReactJS
+Familiar Languages: C, C++, ReactJS
 <br />
 Databases and Configuration: PostgreSQL, SQLite, MySQL, CSV, JSON, XML
 <br />
