@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-Proficient Languages: Python, Java, C, C++, C#, 
+Proficient Languages: C, C++, Python, C#, Java 
 <br />
 Familiar Languages: C, C++, ReactJS
 <br />
