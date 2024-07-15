@@ -1,9 +1,9 @@
-### Hi there, I'm David - 👋
+### Hi there - 👋
 
 ## 
 
-- I’m currently a Software Engineer, Game Developer, and 2D and 3D Artist
-- Currently looking for a job in Game Development or Software Engineering/Development
+- I’m a Software Engineer, Game Developer, and 2D and 3D Artist
+- Currently looking for a Gameplay Programmer role
 - Fun fact: I also illustrate and develop games!
 <br />
 
