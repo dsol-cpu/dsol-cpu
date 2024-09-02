@@ -3,7 +3,7 @@
 ## 
 
 - I’m a Software Engineer, Game Developer, and 2D and 3D Artist
-- Currently looking for a Gameplay Programmer role
+- Currently looking for a Software Engineer or Gameplay Programmer role
 - Fun fact: I also illustrate and develop games!
 <br />
 
