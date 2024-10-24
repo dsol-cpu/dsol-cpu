@@ -1,4 +1,4 @@
-### Hi there - 👋
+### About me:
 
 ## 
 - Currently looking for a Software Engineer or Gameplay Programmer role
