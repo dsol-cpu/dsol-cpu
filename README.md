@@ -2,10 +2,10 @@
 
 ## 
 - Currently looking for Roles:
-  *Software Engineer
-  *Backend
-  *Fullstack
-  *Gameplay Programmer role
+  * Software Engineer
+  * Backend
+  * Fullstack
+  * Gameplay Programmer role
 - Fun fact: I also illustrate and develop games!
 <br />
 
