@@ -1,7 +1,11 @@
 ### About me:
 
 ## 
-- Currently looking for a Software Engineer or Gameplay Programmer role
+- Currently looking for Roles:
+  -Software Engineer
+  -Backend
+  -Fullstack
+  -Gameplay Programmer role
 - Fun fact: I also illustrate and develop games!
 <br />
 
