@@ -1,6 +1,4 @@
 ### About me:
-
-## 
 - Currently looking for Roles:
   * Software Engineer
   * Backend
