@@ -1,4 +1,4 @@
-### About me:
+## About me:
 - Currently looking for Roles:
   * Software Engineer
   * Backend
@@ -7,7 +7,7 @@
 - Fun fact: I also illustrate and develop games!
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 Proficient Languages: C, C++, Python, C#, Java 
 <br />
 Familiar Languages: C, C++, ReactJS, Svelte, Rust
