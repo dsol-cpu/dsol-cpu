@@ -3,7 +3,6 @@
   * Software Engineer
   * Backend
   * Fullstack
-  * Gameplay Programmer role
 <br />
 
 ## Languages and Tools:
