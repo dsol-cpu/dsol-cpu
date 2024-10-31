@@ -10,7 +10,6 @@
 <br />
 
 ### Languages and Tools:
-
 Proficient Languages: C, C++, Python, C#, Java 
 <br />
 Familiar Languages: C, C++, ReactJS, Svelte, Rust
