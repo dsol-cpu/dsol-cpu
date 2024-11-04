@@ -1,5 +1,5 @@
 ## About me:
-- Currently looking for Backend and Fullstack Software Engineer roles
+- Currently looking for Software Engineer roles
 <br />
 
 ## Languages and Tools:
