@@ -1,5 +1,5 @@
 ## About me:
-- Currently looking for Software Engineer roles with 2 yoe
+- Currently looking for Software Engineer roles
 <br />
 
 ## Languages and Tools:
