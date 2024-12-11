@@ -5,7 +5,7 @@
 ## Languages and Tools:
 Proficient Languages: C, C++, Python, C#, Java 
 <br />
-Familiar Languages: C, C++, ReactJS, Svelte, Rust
+Familiar Languages/Frameworks: C, C++, ReactJS, Svelte, React, Rust
 <br />
 Databases and Configuration: PostgreSQL, SQLite, MySQL, CSV, JSON, XML
 <br />
