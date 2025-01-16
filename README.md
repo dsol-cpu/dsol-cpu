@@ -1,5 +1,6 @@
 ## About me:
-- Currently looking for Software Engineer roles
+
+Web Developer and Game Developer
 <br />
 
 ## Languages and Tools:
