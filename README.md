@@ -1,6 +1,6 @@
 ## About me:
 
-Web Developer and Game Developer
+Software Engineer and Game Developer
 <br />
 
 ## Languages and Tools:
