@@ -16,3 +16,5 @@ Operating Systems: Windows, Linux, Android
 <br />
 2D Illustrative/Animation and 3D Modeling Tools: Blender, Clip Studio Paint EX, Aseprite
 <br />
+
+[![Certified Thinker](https://meatproxy.me/badge/c/w357h.svg)](https://meatproxy.me/c/w357h)
